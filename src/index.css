@@ -94,3 +94,13 @@ body {
   cursor: pointer;
   transition: background-color 0.3s ease-in-out;
 }
+
+.container button:hover {
+  background-color: hsl(150, 59%, 54%);
+}
+
+@media (min-width: 500px) {
+  .container {
+    max-width: 480px;
+  }
+}
