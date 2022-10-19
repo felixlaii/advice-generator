@@ -46,3 +46,10 @@ body {
   margin-bottom: 1.25rem;
   letter-spacing: 0.4rem;
 }
+
+.container p {
+  font-size: 28px;
+  color: var(--light-cyan);
+  line-height: 1.5;
+  padding-bottom: 2rem;
+}
