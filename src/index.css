@@ -53,3 +53,8 @@ body {
   line-height: 1.5;
   padding-bottom: 2rem;
 }
+
+.container picture img {
+  background-color: var(--grayish-blue);
+  position: relative;
+}
