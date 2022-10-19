@@ -30,3 +30,19 @@ body {
   height: calc(100vh - 0.1px);
   text-align: center;
 }
+
+.container {
+  background-color: var(--grayish-blue);
+  padding: 1.25rem 1.25rem 3rem;
+  color: #ffffff;
+  border-radius: 1.25rem;
+  position: relative;
+}
+
+.container h1 {
+  color: var(--neon-green);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  margin-bottom: 1.25rem;
+  letter-spacing: 0.4rem;
+}
